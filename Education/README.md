@@ -1,5 +1,5 @@
 # Process of Things Education
-Here we are going to cover everything you need to get you start.  Because we want to be inclusive to everyone we will try to create everything you need.  So it wont matter if your a begginer or if your an advanced programmer you will find everything here you need to get you started.
+Here we are going to cover everything you need to get you started.  Because we want to be inclusive to everyone we will try to create everything you need.  So it wont matter if your a begginer or if your an advanced programmer you will find everything here you need to get you started.
 
 PoT is a decentralised technology for creating an interaction between the digital world and the real world.  Using some of the latest technologies (2017) we will show you how we use the blockchain and p2p technologies to create a total decentralised technology.
 
