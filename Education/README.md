@@ -14,7 +14,9 @@ You will need a machine running Linux 64bit Machine, we do not recommend for the
 There are many distributions our there but we recommend one of the following.  If you are new to Linux and your coming from a windows enviroment then we recommend you start with KDE as your graphical user interface.  If you are coming from Mac then Gnome will probably suite you best.
 
 https://www.linuxmint.com/
+
 https://kubuntu.org/
+
 https://www.debian.org/
 
 
