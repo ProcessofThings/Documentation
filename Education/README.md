@@ -9,7 +9,7 @@ The Perl Framework we will be using is Mojolicious it is easy to develop API (Ap
 
 # Linux
 
-You will need a machine running Linux 64bit Machine, we do not recommend for the purpose of developing PoT that you use a virtual machine unless the host operating system is also running Linux.  At minimum we recommed you have a dual boot machine so that you can boot.
+You will need a machine running Linux 64bit Machine, we do not recommend for the purpose of developing PoT that you use a virtual machine unless the host operating system is also running Linux.  At minimum, we recommed you have a dual boot machine so that you can boot.
 
 There are many distributions our there but we recommend one of the following.  If you are new to Linux and you are coming from a windows enviroment then we recommend you start with KDE as your graphical user interface.  If you are coming from Mac then Gnome will probably suit you best.
 
