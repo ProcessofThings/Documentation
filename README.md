@@ -8,6 +8,8 @@ Currently the best way to get in touch with us is via our Telegram group https:/
 
 PoT is very much in the development phase,  we are trying to make it as easy as possible to get you started.  If you have any problems please feel free to open an issue and we will do our best to fix it as soon as possible.
 
+See : https://github.com/ProcessofThings/Install
+
 # PoT
 
 We are designing PoT to be a decentalised application based around microservices, allowing people to use PoT and adapt it for their own purposes.  We see decentalised applications as the way forward, leaving people in complete control over their data and how they interact with the world around them.
